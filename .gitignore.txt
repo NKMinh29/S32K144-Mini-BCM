@@ -1,0 +1,14 @@
+# Bỏ qua các thư mục build
+Debug_FLASH/
+Debug_RAM/
+Release_FLASH/
+
+# Bỏ qua các file cấu hình IDE cá nhân
+.settings/
+.project
+.cproject
+
+# Bỏ qua các file nhị phân
+*.o
+*.elf
+*.map
